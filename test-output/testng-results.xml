@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7047" started-at="2018-09-11T05:50:31Z" finished-at="2018-09-11T05:50:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7047" started-at="2018-09-11T05:50:31Z" finished-at="2018-09-11T05:50:38Z">
+      <class name="myWebmail.AutomateWebmail">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:myWebmail.AutomateWebmail@58651fd0]" name="beforeClass" is-config="true" duration-ms="5203" started-at="2018-09-11T11:20:31Z" finished-at="2018-09-11T11:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="enterCredentials()[pri:0, instance:myWebmail.AutomateWebmail@58651fd0]" name="enterCredentials" duration-ms="1827" started-at="2018-09-11T11:20:36Z" finished-at="2018-09-11T11:20:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCredentials -->
+      </class> <!-- myWebmail.AutomateWebmail -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
